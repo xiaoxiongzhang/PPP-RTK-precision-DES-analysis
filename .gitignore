@@ -1,0 +1,10 @@
+
+dist/*
+output/*
+build
+venv
+
+*.exe
+*.py[cod]
+.idea
+*.spec
